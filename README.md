@@ -1,10 +1,9 @@
 # From First Purchase to Loyal Customer | Cohort Analysis of User Retention in Online Retail
 
-This presentation focus on how online retailers can use cohort analysis to understand user retention rates and identify factors that contribute to customer loyalty. This would dive into how to Calculate the retention rate: The retention rate is the percentage of customers from a given cohort who make a repeat purchase and the Visualization of the retention rate: create a retention curve, which plots the percentage of customers and can help you identify trends and patterns in customer behavior.
+This presentation focus on how online retailers can use cohort analysis to understand user retention rates and identify factors that contribute to customer loyalty. This would dive into how to Calculate the retention rate: The retention rate is the percentage of customers from a given cohort who make a repeat purchase.
 
 Tableau Dashboard: <a href="https://public.tableau.com/app/profile/lucian6345/viz/CohortRetentionDashboard_16767143305550/CohortRetentionDashboard?publish=yes" target="_blank">Cohort Analyst</a>
 
-<br />
 <br />
 
 

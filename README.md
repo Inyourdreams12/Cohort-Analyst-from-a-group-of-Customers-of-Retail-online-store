@@ -49,7 +49,15 @@ The number of users declines over time, which is a common trend in cohort analys
 Cohorts 2-5 (January-April 2011) have a similar retention rate, while cohorts 6-9 (May-August 2011) also have similar retention rates. This suggests that there may be some underlying patterns or factors that are affecting retention rates for these groups of users.
 
 The retention rate for cohort 10 (September 2011) is significantly higher than the previous few cohorts. This could be due to a number of reasons, such as an improvement in the product or service, targeted marketing efforts, or other factors.
+<pre>
 
+
+
+
+   
+
+   
+</pre>
 RECOMMENDATIONS:
    + Investigating the factors that led to the higher retention rate for cohort 10, and replicating these strategies for future cohorts.
    + Improving the onboarding process for new users, to help ensure that they have a positive first experience with the Sale service.

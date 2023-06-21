@@ -11,6 +11,8 @@ Tableau Dashboard: <a href="https://public.tableau.com/app/profile/lucian6345/vi
 
 
    
+
+   
 </pre>
 
 In your case, I have chosen to analyze a 13-month cohort from Dec 2010 - Dec 2011, which means that im tracking how a group of users or customers who first made a purchase in December 2010 and ending with December 2011 behave over the next 13 months. This can help to understand how loyal or valuable this cohort is, as well as identify factors that influence their behavior.
@@ -33,6 +35,8 @@ The fact that both cohorts experience a similar drop in retention in the same mo
 
 
 
+
+   
 
    
 </pre>
